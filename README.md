@@ -1,4 +1,7 @@
 ### Hi there! I'm Kally Cao 👋
+I am a full-stack software engineer with a background in Sales and Operations. I am a solution-oriented individual with a passion for knowledge, personal growth, collaboration, and optimization. I aim to use my software development skills along with the skills I’ve refined with my previous professional experiences to create impactful technologies, make meaningful connections, and bring value to others.
+
+Send me a message on LinkedIn if you’d like to learn more. I am happy to connect and chat!
 
 [![LinkedIn](https://img.shields.io/badge/kallycao%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kallycao/)](https://www.linkedin.com/in/kallycao/)
 [![GitHub](https://img.shields.io/badge/kallycao%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/kallycao)](https://github.com/kallycao)
