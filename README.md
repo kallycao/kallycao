@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/kallycao%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kallycao/)](https://www.linkedin.com/in/kallycao/)
 [![GitHub](https://img.shields.io/badge/kallycao%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/kallycao)](https://github.com/kallycao)
-[![Gmail](https://img.shields.io/badge/kallycao%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kallycao98@gmail.com)](kallycao98@gmail.com)
+[![Gmail](https://img.shields.io/badge/kallycao%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kallycao98@gmail.com)](mailto:kallycao98@gmail.com)
 
 - :round_pushpin: Based in Westminster, CA
 
